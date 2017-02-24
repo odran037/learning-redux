@@ -6,6 +6,10 @@
     "dev": "webpack",
     "start": "webpack-dev-server"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odran037/learning-redux.git"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.3",

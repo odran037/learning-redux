@@ -12,7 +12,7 @@ export default function () {
       "model": "Sentinel-class landing craft",
       "hyperdrive_rating": "1.0",
       "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
-      "thumbnail": "http://placehold.it/250x250"
+      "thumbnail": "https://placehold.it/250x250"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@ export default function () {
       "model": "DS-1 Orbital Battle Station",
       "hyperdrive_rating": "4.0",
       "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
-      thumbnail: "http://placehold.it/250x250"
+      thumbnail: "https://placehold.it/250x250"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@ export default function () {
       "model": "YT-1300 light freighter",
       "hyperdrive_rating": "0.5",
       "manufacturer": "Corellian Engineering Corporation",
-      thumbnail: "http://placehold.it/250x250"
+      thumbnail: "https://placehold.it/250x250"
     }
   ];
 }
