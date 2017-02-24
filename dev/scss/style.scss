@@ -1,0 +1,29 @@
+$success: #00FF00;
+$white: #ffffff;
+
+body {
+	color: $white;
+}
+
+li {
+	cursor: pointer;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+// 
+
+.text-white {
+	color: $white;
+}
+
+// Bootstrap overrides
+
+.label-success, .btn-success {
+	background: $success;
+}
+
+.text-success {
+	color: $success;
+}
